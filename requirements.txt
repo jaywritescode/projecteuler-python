@@ -1,0 +1,9 @@
+blessings==1.6
+bpython==0.16
+-e git+https://github.com/jaywritescode/ConstraintSatisfactionProblem.git#egg=ConstraintSatisfactionProblem
+curtsies==0.2.11
+greenlet==0.4.12
+Pygments==2.2.0
+requests==2.14.0
+six==1.10.0
+wcwidth==0.1.7
